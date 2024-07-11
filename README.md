@@ -1,5 +1,6 @@
 # GitHubProfile
-Links to help creating a beautiful GitHub profile.
+
+Links para auxiliar na criação do perfil do GitHub.
 
 ## Stats
 
