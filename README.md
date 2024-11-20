@@ -1,4 +1,4 @@
-# github-profile
+# GitHub Profile
 
 Links para auxiliar na criação do perfil do GitHub.
 
